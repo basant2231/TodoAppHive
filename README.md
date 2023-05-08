@@ -1,11 +1,8 @@
 # hivenotesapp
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/115031668/235661448-7b89f60b-24b7-4082-bb18-6a7f37284dc0.png" width="250" alt="Screenshot 1">
-  <img src="https://user-images.githubusercontent.com/115031668/235661451-37baba2e-4824-460f-8964-31764a7202fb.png" width="250" alt="Screenshot 2">
-  <img src="https://user-images.githubusercontent.com/115031668/235661460-322d8873-c17b-45e2-bd34-2c898c4b3713.png" width="250" alt="Screenshot 3">
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/115031668/235661467-b840029a-9ebc-4a67-9177-34f9810b99c9.png" width="400" alt="Screenshot 4">
-  <img src="https://user-images.githubusercontent.com/115031668/235661480-a63273b9-d7c6-47a7-a8b5-0b926299588d.PNG" width="400" alt="Screenshot 5">
-</p>
+<div style="display:flex; justify-content:center;">
+  <img src="https://user-images.githubusercontent.com/115031668/236799157-f95fe230-de72-43b7-8a02-d42310884d4c.png" width="250" alt="Screenshot 1">
+  <img src="https://user-images.githubusercontent.com/115031668/236799167-cc1642b5-4035-488b-94d0-a6f558ec12de.png" width="250" alt="Screenshot 2">
+  <img src="https://user-images.githubusercontent.com/115031668/236799176-1fbc8934-0b01-41ff-bc3e-92a83efb0d16.png" width="250" alt="Screenshot 3">
+  <img src="https://user-images.githubusercontent.com/115031668/236799183-a5a09cf0-b92e-4b24-9d2f-7871ee0a8635.png" width="250" alt="Screenshot 4">
+</div>
